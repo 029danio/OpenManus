@@ -1,16 +1,10 @@
 [English](README.md) | [繁體中文](README_tw.md) | 简体中文
 
-<p align="left">
-    <a href="https://discord.gg/6dn7Sa3a"><img src="https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat" alt="Discord Follow"></a>
-</p>
+### 2025年大陆地区稳定翻墙机场推荐 (持续更新）:[https://www.flyvpn88.top](https://www.flyvpn88.top)
 
-# OpenManus 🙋
+### 翻墙代理软件【下载站】：[https://github.com/029danio/clash](https://github.com/029danio/clash)
 
-Manus 非常棒，但 OpenManus 无需邀请码即可实现任何创意 🛫！
-
-我们来自 [@MetaGPT](https://github.com/geekan/MetaGPT) 的团队成员 [@mannaandpoem](https://github.com/mannaandpoem) [@XiangJinyu](https://github.com/XiangJinyu) [@MoshiQAQ](https://github.com/MoshiQAQ) [@didiforgithub](https://github.com/didiforgithub) 在 3 小时内完成了开发！
-
-这是一个简洁的实现方案，欢迎任何建议、贡献和反馈！
+### 机场Github：[https://github.com/029danio/fly](https://github.com/029danio/fly)
 
 用 OpenManus 开启你的智能体之旅吧！
 
@@ -83,36 +77,3 @@ python main.py
 ```bash
 python run_flow.py
 ```
-
-## 贡献指南
-
-我们欢迎任何友好的建议和有价值的贡献！可以直接创建 issue 或提交 pull request。
-
-或通过 📧 邮件联系 @mannaandpoem：mannaandpoem@gmail.com
-
-## 发展路线
-
-- [ ] 更优的规划系统
-- [ ] 实时演示功能
-- [ ] 运行回放
-- [ ] 强化学习微调模型
-- [ ] 全面的性能基准测试
-
-## 交流群
-
-加入我们的飞书交流群，与其他开发者分享经验！
-
-<div align="center" style="display: flex; gap: 20px;">
-    <img src="assets/community_group.jpg" alt="OpenManus 交流群" width="300" />
-</div>
-
-## Star 数量
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mannaandpoem/OpenManus&type=Date)](https://star-history.com/#mannaandpoem/OpenManus&Date)
-
-## 致谢
-
-特别感谢 [anthropic-computer-use](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo)
-和 [browser-use](https://github.com/browser-use/browser-use) 为本项目提供的基础支持！
-
-OpenManus 由 MetaGPT 社区的贡献者共同构建，感谢这个充满活力的智能体开发者社区！
