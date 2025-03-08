@@ -1,18 +1,15 @@
 English | [繁體中文](README_tw.md) | [简体中文](README_zh.md)
+2025年大陆地区稳定翻墙机场推荐 (持续更新）:[https://www.flyvpn88.top](https://www.flyvpn88.top)
+
+翻墙代理软件【下载站】：[https://github.com/029danio/clash](https://github.com/029danio/clash)
+
+机场Github：[https://github.com/029danio/fly](https://github.com/029danio/fly)
 
 <p align="left">
     <a href="https://discord.gg/6dn7Sa3a"><img src="https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat" alt="Discord Follow"></a>
 </p>
 
-# OpenManus 🙋
 
-Manus is incredible, but OpenManus can achieve any ideas without an Invite Code 🛫!
-
-Our team members [@mannaandpoem](https://github.com/mannaandpoem) [@XiangJinyu](https://github.com/XiangJinyu) [@MoshiQAQ](https://github.com/MoshiQAQ) [@didiforgithub](https://github.com/didiforgithub) from [@MetaGPT](https://github.com/geekan/MetaGPT) built it within 3 hours!
-
-It's a simple implementation, so we welcome any suggestions, contributions, and feedback!
-
-Enjoy your own agent with OpenManus!
 
 ## Project Demo
 
@@ -84,35 +81,3 @@ For unstable version, you also can run:
 python run_flow.py
 ```
 
-## How to contribute
-
-We welcome any friendly suggestions and helpful contributions! Just create issues or submit pull requests.
-
-Or contact @mannaandpoem via 📧email: mannaandpoem@gmail.com
-
-## Roadmap
-
-- [ ] Better Planning
-- [ ] Live Demos
-- [ ] Replay
-- [ ] RL Fine-tuned Models
-- [ ] Comprehensive Benchmarks
-
-## Community Group
-
-Join our networking group on Feishu and share your experience with other developers!
-
-<div align="center" style="display: flex; gap: 20px;">
-    <img src="assets/community_group.jpg" alt="OpenManus 交流群" width="300" />
-</div>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mannaandpoem/OpenManus&type=Date)](https://star-history.com/#mannaandpoem/OpenManus&Date)
-
-## Acknowledgement
-
-Thanks to [anthropic-computer-use](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo)
-and [browser-use](https://github.com/browser-use/browser-use) for providing basic support for this project!
-
-OpenManus is built by contributors from MetaGPT. Huge thanks to this agent community!
